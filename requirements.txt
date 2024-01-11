@@ -1,0 +1,9 @@
+# 11/21/2023 - setting up for the code for my summarizer project.
+
+streamlit
+pypdf2
+langchain
+python-dotenv
+faiss-cpu
+openai
+huggingface_hub
