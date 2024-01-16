@@ -7,3 +7,8 @@ python-dotenv
 faiss-cpu
 openai
 huggingface_hub
+pandas
+itertools
+pinecone
+sentence_transformers
+
