@@ -8,7 +8,9 @@ faiss-cpu
 openai
 huggingface_hub
 pandas
-itertools
-pinecone
+pinecone-client
 sentence_transformers
+streamlit-chat
+streamlit-extras
+
 
